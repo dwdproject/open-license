@@ -12,12 +12,13 @@ To make the license as easy for everyday people to understand as possible, the d
 
 Only our engines, starter assets and development tools (collectively known as 'projects') are released under this license. *Our (upcoming) commercially-released builds based on these projects (or 'products') are proprietary releases, the proceeds from which we use to fund the development of the open projects.* While we (will) allow modifications of our commercial games, these mods must be non-commercial. Otherwise, use the engine to make your own games. You do not have to release your own games under this license, you only have to release modifications to the engine or development tools themselves.
 
-## ~~Five~~ Four Freedoms
+## Five Freedoms
 
-1. You are free to use dwd. projects for any purpose that is legal. Including commercial purposes and for products which compete with dwd's own products.
+1. You are free to use dwd. projects for any purpose. Including commercial purposes and for products which compete with dwd's own products.
 2. You are free to study the source code of dwd. projects and produce documentation of such code.
 3. You are free to mirror dwd. projects.
 4. You are free to port dwd. projects to operating systems and platforms other than their native platforms.
+5. You are free to provide support for dwd. products.
 
 ## ~~Five~~ Four Conditions
 
@@ -26,3 +27,6 @@ Only our engines, starter assets and development tools (collectively known as 'p
 3. You must not use dwd. trademarks in the name/title or marketing of your projects.
    - Please also avoid making your project names confusingly similar to dwd. project names, even if they are not trademarked.
 4. You must not make any affiliation between yourself and the dwd. project where one does not exist.
+5. More of a request than a condition of use, please don't use dwd. projects for anything illegal.
+
+You can use this license for your own projects, but please change all references to the dwd. project where necessary while still crediting it.
