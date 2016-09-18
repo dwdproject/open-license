@@ -14,7 +14,7 @@ Only our engines, starter assets and development tools (collectively known as 'p
 
 ## ~~Five~~ Four Freedoms
 
-1. You are free to use dwd. projects for any purpose. Including commercial purposes and for products which compete with dwd's own products.
+1. You are free to use dwd. projects for any purpose that is legal. Including commercial purposes and for products which compete with dwd's own products.
 2. You are free to study the source code of dwd. projects and produce documentation of such code.
 3. You are free to mirror dwd. projects.
 4. You are free to port dwd. projects to operating systems and platforms other than their native platforms.
