@@ -20,7 +20,7 @@ Only our engines, starter assets and development tools (collectively known as 'p
 4. You are free to port dwd. projects to operating systems and platforms other than their native platforms.
 5. You are free to provide support for dwd. products.
 
-## ~~Five~~ Four Conditions
+## Five Conditions
 
 1. You must credit the dwd. project and the specific projects used as such: "©[year]; Code used from [project name/s] provided by DWD Project."
 2. You must release any modifications to the source code under this license.
